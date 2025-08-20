@@ -40,9 +40,12 @@
 #ubuntu:22.04
 #ubuntu:20.04
 
+#httpd:2.4.63-alpine3.21
+httpd:2.4.65-alpine3.22
+
 #nginx:1.27.1-alpine3.20
 #nginx:1.27.4-alpine3.21
-nginx:1.29.1-alpine3.22-slim
+#nginx:1.29.1-alpine3.22-slim
 
 #postgres:16.3-alpine3.20
 #postgres:16.4-alpine3.20
@@ -109,8 +112,8 @@ nginx:1.29.1-alpine3.22-slim
 #python:3.10.16-slim-bookworm
 #python:3.11.11-alpine3.21
 #python:3.11.11-slim-bookworm
-python:3.11.13-alpine3.22
-python:3.11.13-slim-bookworm
+#python:3.11.13-alpine3.22
+#python:3.11.13-slim-bookworm
 #python:3.12.9-alpine3.21
 #python:3.12.9-slim-bookworm
 #python:3.13.0-alpine3.20
@@ -188,4 +191,3 @@ python:3.11.13-slim-bookworm
 #lukechilds/dockerpi:vm
 
 #redmine:6.0.4-alpine3.21
-#httpd:2.4.63-alpine3.21
