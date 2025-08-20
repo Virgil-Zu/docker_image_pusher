@@ -41,7 +41,7 @@
 #ubuntu:20.04
 
 #httpd:2.4.63-alpine3.21
-httpd:2.4.65-alpine3.22
+#httpd:2.4.65-alpine3.22
 
 #nginx:1.27.1-alpine3.20
 #nginx:1.27.4-alpine3.21
@@ -55,19 +55,23 @@ httpd:2.4.65-alpine3.22
 #bitnami/postgresql-repmgr:16-debian-12
 #bitnami/mysql:8.0.16-debian-9-r75
 #bitnami/rabbitmq:4.0.7-debian-12-r0
+bitnami/postgresql-repmgr:17-debian-12
+#bitnami/mysql:9.4-debian-12
 
-#mysql:9.0.1-oraclelinux9
-#mysql:9.2.0-oraclelinux9
-#mysql:8.4.2-oraclelinux9
-#mysql:8.4.4-oraclelinux9
 #mysql:8.0.39-bookworm
 #mysql:8.0.41-bookworm
-#mysql:8.0.16
+#mysql:8.4.2-oraclelinux9
+#mysql:8.4.4-oraclelinux9
+#mysql:9.0.1-oraclelinux9
+#mysql:9.2.0-oraclelinux9
+mysql:9.4.0-oraclelinux9
 
 
 #redis:7.4.0-alpine3.20
 #redis:7.4.1-alpine3.20
 #redis:7.4.2-alpine3.21
+
+
 #memcached:1.6.31-alpine3.20
 
 #rabbitmq:3.13.7-alpine
