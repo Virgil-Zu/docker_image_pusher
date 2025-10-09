@@ -203,4 +203,3 @@ gvector/pgvector:0.8.1-pg18-bookworm
 #lukechilds/dockerpi:vm
 
 #redmine:6.0.4-alpine3.21
-linuxserver/wireguard:1.0.20250521
