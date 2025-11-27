@@ -22,7 +22,8 @@
 #docker:28.3.1-dind-alpine3.22
 
 #ollama/ollama:0.5.13
-ollama/ollama:0.12.5
+#ollama/ollama:0.12.5
+ollama/ollama:0.13.0
 
 #debian:bookworm-slim
 #debian:bullseye-slim
@@ -59,6 +60,8 @@ ollama/ollama:0.12.5
 #mongo:4.4.29
 
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
+
+chrislusf/seaweedfs:4.00
 
 #postgres:16.3-alpine3.20
 #postgres:16.4-alpine3.20
