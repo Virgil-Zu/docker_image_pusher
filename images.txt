@@ -50,7 +50,7 @@ ubuntu:26.04
 #ubuntu:22.04
 #ubuntu:20.04
 #ubuntu:18.04
-ubuntu:16.04
+#ubuntu:16.04
 #ubuntu:14.04
 
 #httpd:2.4.63-alpine3.21
@@ -221,3 +221,7 @@ ubuntu:16.04
 #lukechilds/dockerpi:vm
 
 #redmine:6.0.4-alpine3.21
+
+catthehacker/ubuntu:full-22.04
+catthehacker/ubuntu:full-24.04
+
